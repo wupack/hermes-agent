@@ -1,0 +1,894 @@
+- generic [active]:
+  - generic [ref=e1]:
+    - generic [ref=e2]:
+      - generic:
+        - paragraph [ref=e3]: 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站
+        - paragraph [ref=e4]: 服务热线：400-810-1996 | 服务投诉：010-63819289
+    - generic [ref=e6]:
+      - generic [ref=e8]:
+        - link:
+          - /url: "#"
+        - link:
+          - /url: "#"
+        - link:
+          - /url: "#"
+        - link:
+          - /url: "#"
+      - generic [ref=e13]:
+        - generic:
+          - combobox [ref=e14]:
+            - option "站内资讯"
+            - option "采购公告" [selected]
+            - option "政策法规"
+          - textbox [ref=e15]
+          - button "搜标题" [ref=e16]
+          - button "搜全文" [ref=e17]
+    - generic [ref=e18]:
+      - generic:
+        - list:
+          - listitem [ref=e19]:
+            - link "首页" [ref=e20] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/index.shtml
+          - listitem [ref=e21]:
+            - link "政采法规" [ref=e22] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/zcfg/index.shtml
+          - listitem [ref=e23]:
+            - link "购买服务" [ref=e24] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/gpsr/index.shtml
+          - listitem [ref=e25]:
+            - link "监督检查" [ref=e26] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/jdjc/index.shtml
+          - listitem [ref=e27]:
+            - link "信息公告" [ref=e28] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/xxgg/index.shtml
+          - listitem [ref=e29]:
+            - link "国际专栏" [ref=e30] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/wtogpa/index.shtml
+  - generic [ref=e31]:
+    - generic:
+      - generic [ref=e32]:
+        - generic [ref=e34]:
+          - list:
+            - listitem [ref=e35]:
+              - paragraph [ref=e37]: 2025年财政政策执行情况报告 政采政策效能显著提升
+              - link "2025年财政政策执行情况报告 政采政策效能显著提升" [ref=e39] [cursor=pointer]:
+                - /url: news/202603/t20260317_26278151.htm?
+                - img "2025年财政政策执行情况报告 政采政策效能显著提升" [ref=e40]
+          - list [ref=e41]:
+            - listitem [ref=e42]:
+              - generic [ref=e43] [cursor=pointer]: "1"
+            - listitem [ref=e44]:
+              - generic [ref=e45] [cursor=pointer]: "2"
+            - listitem [ref=e46]:
+              - generic [ref=e47] [cursor=pointer]: "3"
+            - listitem [ref=e48]:
+              - generic [ref=e49] [cursor=pointer]: "4"
+            - listitem [ref=e50]:
+              - generic [ref=e51] [cursor=pointer]: "5"
+          - list:
+            - listitem:
+              - link "Previous" [ref=e52] [cursor=pointer]:
+                - /url: "#"
+            - listitem:
+              - link "Next" [ref=e53] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e54]:
+          - paragraph [ref=e56]:
+            - link "全国人大常委会2026年度立法工作计划 《政府采购法》（修改）已列为初次审议项目" [ref=e57] [cursor=pointer]:
+              - /url: ./news/202605/t20260512_26549039.htm
+              - text: 全国人大常委会2026年度立法工作计划
+              - text: 《政府采购法》（修改）已列为初次审议项目
+          - generic:
+            - list [ref=e58]:
+              - listitem [ref=e59]:
+                - link "中办、国办出台节能降碳意见 深入实施..." [ref=e60] [cursor=pointer]:
+                  - /url: ./news/202604/t20260424_26453931.htm
+              - listitem [ref=e61]:
+                - link "全国政府采购工作会议在北京召开" [ref=e62] [cursor=pointer]:
+                  - /url: ./news/202604/t20260413_26393835.htm
+              - listitem [ref=e63]:
+                - link "财政部2025年法治政府建设年度报告 深..." [ref=e64] [cursor=pointer]:
+                  - /url: ./news/202603/t20260331_26336428.htm
+              - listitem [ref=e65]:
+                - link "财政部发布2025年财政政策执行情况报..." [ref=e66] [cursor=pointer]:
+                  - /url: ./news/202603/t20260317_26278151.htm
+              - listitem [ref=e67]:
+                - link "2026国家立法新看点 政府采购法和招标..." [ref=e68] [cursor=pointer]:
+                  - /url: ./news/202603/t20260309_26248946.htm
+              - listitem [ref=e69]:
+                - link "2026年政府工作报告：深化招投标改革 ..." [ref=e70] [cursor=pointer]:
+                  - /url: ./news/202603/t20260306_26237437.htm
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - link "关于推动解决政府采购异常低价问题的通知" [ref=e73] [cursor=pointer]:
+                  - /url: ./news/202601/t20260122_26102509.htm
+              - listitem [ref=e74]:
+                - link "财政部答复有关本国产品采购网民留言咨询" [ref=e75] [cursor=pointer]:
+                  - /url: ./news/202601/t20260121_26097384.htm
+              - listitem [ref=e76]:
+                - link "财政部 交通运输部关于组织开展“政府..." [ref=e77] [cursor=pointer]:
+                  - /url: ./news/202601/t20260105_26035967.htm
+              - listitem [ref=e78]:
+                - link "全国财政工作会议在北京召开" [ref=e79] [cursor=pointer]:
+                  - /url: ./news/202512/t20251229_26004449.htm
+              - listitem [ref=e80]:
+                - link "关于贯彻落实《国务院办公厅关于在政..." [ref=e81] [cursor=pointer]:
+                  - /url: ./news/202512/t20251219_25958482.htm
+              - listitem [ref=e82]:
+                - link "人民时评：从政府采购新规看开放气度" [ref=e83] [cursor=pointer]:
+                  - /url: ./news/202512/t20251211_25907095.htm
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - list [ref=e87]:
+            - listitem [ref=e88] [cursor=pointer]:
+              - paragraph [ref=e89]: 财政部政府采购信息公告栏
+            - listitem [ref=e90] [cursor=pointer]:
+              - paragraph [ref=e91]:
+                - text: 政府采购严重违法
+                - text: 失信行为记录名单
+            - listitem [ref=e92] [cursor=pointer]:
+              - paragraph [ref=e93]: 政府采购代理机构名单
+            - listitem [ref=e94] [cursor=pointer]:
+              - paragraph [ref=e95]: 政府采购意向公开查询
+            - listitem [ref=e96] [cursor=pointer]:
+              - paragraph [ref=e97]: 代理机构不良行为记录名单
+            - listitem [ref=e98] [cursor=pointer]:
+              - paragraph [ref=e99]:
+                - text: 各地区政府采购
+                - text: 评审专家劳务报酬标准
+            - listitem [ref=e100] [cursor=pointer]:
+              - paragraph [ref=e101]: 政府采购合同公告查询
+            - listitem [ref=e102] [cursor=pointer]:
+              - paragraph [ref=e103]:
+                - text: 中央单位单一来源
+                - text: 政府采购审核前公示
+            - listitem [ref=e104] [cursor=pointer]:
+              - paragraph [ref=e105]: 中央单位批量集中采购
+            - listitem [ref=e106] [cursor=pointer]:
+              - paragraph [ref=e107]: 节能环保
+            - listitem [ref=e108] [cursor=pointer]:
+              - img [ref=e110]
+              - paragraph [ref=e112]:
+                - text: 面向中小企业
+                - text: 预留项目执行情况公开
+            - listitem [ref=e113] [cursor=pointer]:
+              - img [ref=e115]
+              - paragraph [ref=e117]: 公共服务项目验收结果公告
+            - listitem [ref=e118] [cursor=pointer]:
+              - paragraph [ref=e119]:
+                - text: 集中采购目录
+                - link "中央" [ref=e120]:
+                  - /url: /cgml/zy/
+                - text: "|"
+                - link "地方" [ref=e121]:
+                  - /url: /cgml/df/
+            - listitem [ref=e122] [cursor=pointer]:
+              - paragraph [ref=e123]: 政府购买服务指导性目录
+            - listitem [ref=e124] [cursor=pointer]:
+              - paragraph [ref=e125]: 咨询留言
+            - listitem [ref=e126] [cursor=pointer]:
+              - paragraph [ref=e127]: 绿色建筑和绿色建材专栏
+            - listitem [ref=e128] [cursor=pointer]:
+              - paragraph [ref=e129]:
+                - text: 政府采购项目
+                - text: 电子化交易系统介绍
+            - listitem [ref=e130] [cursor=pointer]:
+              - paragraph [ref=e131]: 建议提案
+            - listitem [ref=e132] [cursor=pointer]:
+              - paragraph [ref=e133]: 专题报道
+          - generic [ref=e136]:
+            - heading "政府采购动态" [level=2] [ref=e140]:
+              - link "政府采购动态" [ref=e141] [cursor=pointer]:
+                - /url: /zcdt/
+            - list [ref=e142]:
+              - listitem [ref=e143]:
+                - link "财政部政府采购投诉举报受理窗口地址变更公告" [ref=e144] [cursor=pointer]:
+                  - /url: ./zcdt/202202/t20220228_17627750.htm
+              - listitem [ref=e145]:
+                - link "财政部国库司与英国能源安全与净零部工业脱碳与碳排..." [ref=e146] [cursor=pointer]:
+                  - /url: ./zcdt/202510/t20251030_25601258.htm
+              - listitem [ref=e147]:
+                - link "海岱雄秀 数治山东 ——齐鲁政采绘就高质量发展新图景" [ref=e148] [cursor=pointer]:
+                  - /url: ./zcdt/202604/t20260424_26452491.htm
+              - listitem [ref=e149]:
+                - link "市场监管总局发布招标投标领域系统整治典型案例（第..." [ref=e150] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260515_26571460.htm
+              - listitem [ref=e151]:
+                - link "四川省政府采购中心开展“零距离”上门服务" [ref=e152] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260515_26571138.htm
+              - listitem [ref=e153]:
+                - link "福建上线智能辅助投诉处理系统" [ref=e154] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260515_26571131.htm
+              - listitem [ref=e155]:
+                - link "广东公布第一批政府采购违法违规典型案例" [ref=e156] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549475.htm
+              - listitem [ref=e157]:
+                - link "四川：通报5起政府采购违法违规行为典型案例" [ref=e158] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549438.htm
+              - listitem [ref=e159]:
+                - link "宁夏规范市场竞争秩序" [ref=e160] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549266.htm
+              - listitem [ref=e161]:
+                - link "重庆规范政采电子化交易管理" [ref=e162] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549230.htm
+              - listitem [ref=e163]:
+                - link "山东公布“四类”违法违规问题典型案例" [ref=e164] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549229.htm
+              - listitem [ref=e165]:
+                - link "河北启动政采支持公路绿色低碳发展试点" [ref=e166] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549218.htm
+              - listitem [ref=e167]:
+                - link "新疆举办2026年全区政府采购管理培训班" [ref=e168] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260512_26549217.htm
+              - listitem [ref=e169]:
+                - link "浙江推动电子卖场规范健康发展" [ref=e170] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260511_26542940.htm
+              - listitem [ref=e171]:
+                - link "湖北“十五五”规划纲要列出政采工作清单" [ref=e172] [cursor=pointer]:
+                  - /url: ./zcdt/202605/t20260511_26542939.htm
+          - generic [ref=e175]:
+            - heading "购买服务动态" [level=2] [ref=e179]:
+              - link "购买服务动态" [ref=e180] [cursor=pointer]:
+                - /url: /gpsr/
+            - list [ref=e181]:
+              - listitem [ref=e182]:
+                - link "坚定改革信心 走深走实北京政府购买服务改革之路" [ref=e183] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202603/t20260312_26261484.htm
+              - listitem [ref=e184]:
+                - link "广东将低空经济服务纳入政府购买服务范围" [ref=e185] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202511/t20251114_25695352.htm
+              - listitem [ref=e186]:
+                - link "重庆市进一步加强政府购买服务管理" [ref=e187] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202510/t20251029_25593122.htm
+              - listitem [ref=e188]:
+                - link "重庆政府购买服务“花钱买服务、办事不养人”" [ref=e189] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202510/t20251021_25540401.htm
+              - listitem [ref=e190]:
+                - link "财政部有关负责人就规范政府和社会资本合作存量项目..." [ref=e191] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/zy/202509/t20250925_25413256.htm
+              - listitem [ref=e192]:
+                - link "中办国办要求新增基本公共服务事项优先以政府购买服..." [ref=e193] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/zy/202506/t20250616_24780801.htm
+              - listitem [ref=e194]:
+                - link "新疆维吾尔自治区财政厅：持续加强“一老一小”服务..." [ref=e195] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202506/t20250606_24731501.htm
+              - listitem [ref=e196]:
+                - link "浙江省财政厅关于印发浙江省政府向社会力量购买服务..." [ref=e197] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202506/t20250606_24730054.htm
+              - listitem [ref=e198]:
+                - link "西安市通过政府购买服务助力患者回归融入社会" [ref=e199] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202504/t20250408_24406639.htm
+              - listitem [ref=e200]:
+                - link "四川省民政厅大力推动政府购买社会组织服务改革试点..." [ref=e201] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202503/t20250328_24364745.htm
+              - listitem [ref=e202]:
+                - link "安徽去年政府购买服务项目资金超80亿元" [ref=e203] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202503/t20250328_24364574.htm
+              - listitem [ref=e204]:
+                - link "云南县级政府购买服务指导性目录实现全覆盖" [ref=e205] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202411/t20241129_23742763.htm
+              - listitem [ref=e206]:
+                - link "浙江政府购买服务目录扩容" [ref=e207] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202411/t20241119_23650063.htm
+              - listitem [ref=e208]:
+                - link "福建探索实施“就业券”服务模式" [ref=e209] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202411/t20241101_23507970.htm
+              - listitem [ref=e210]:
+                - link "河北：科学谋划 精准施策 推进政府购买服务工作再上..." [ref=e211] [cursor=pointer]:
+                  - /url: ./gpsr/zhxx/df/202410/t20241024_23445170.htm
+        - list [ref=e214]:
+          - listitem [ref=e215]:
+            - link "政府采购需求标准及产品选购指南":
+              - /url: //www.ccgp.gov.cn/specialtopic/zfcgxqbz/
+        - generic [ref=e216]:
+          - generic [ref=e219]:
+            - generic [ref=e222]:
+              - heading "中央单位采购公告" [level=2] [ref=e223]:
+                - link "中央单位采购公告" [ref=e224] [cursor=pointer]:
+                  - /url: /cggg/zygg/
+              - list [ref=e225]:
+                - listitem [ref=e226]:
+                  - link "招标" [ref=e227] [cursor=pointer]:
+                    - /url: /cggg/zygg/gkzb/
+                - listitem [ref=e228]:
+                  - link "中标" [ref=e229] [cursor=pointer]:
+                    - /url: /cggg/zygg/zbgg/
+                - listitem [ref=e230]:
+                  - link "更正" [ref=e231] [cursor=pointer]:
+                    - /url: /cggg/zygg/gzgg/
+                - listitem [ref=e232]:
+                  - link "询价" [ref=e233] [cursor=pointer]:
+                    - /url: /cggg/zygg/xjgg/
+                - listitem [ref=e234]:
+                  - link "邀请" [ref=e235] [cursor=pointer]:
+                    - /url: /cggg/zygg/yqzbgg/
+                - listitem [ref=e236]:
+                  - link "单一" [ref=e237] [cursor=pointer]:
+                    - /url: //search.ccgp.gov.cn/eanotice
+                - listitem [ref=e238]:
+                  - link "预审" [ref=e239] [cursor=pointer]:
+                    - /url: /cggg/zygg/zgysgg/
+                - listitem [ref=e240]:
+                  - link "成交" [ref=e241] [cursor=pointer]:
+                    - /url: /cggg/zygg/cjgg/
+                - listitem [ref=e242]:
+                  - link "竞争性谈判" [ref=e243] [cursor=pointer]:
+                    - /url: /cggg/zygg/jzxtpgg/
+                - listitem [ref=e244]:
+                  - link "竞争性磋商" [ref=e245] [cursor=pointer]:
+                    - /url: /cggg/zygg/jzxcs/
+                - listitem [ref=e246]:
+                  - link "终止" [ref=e247] [cursor=pointer]:
+                    - /url: /cggg/zygg/fblbgg/
+            - list [ref=e248]:
+              - listitem [ref=e249]:
+                - link "上海外国语大学附属外国语学校上外附中监控存储..." [ref=e250] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/zbgg/202605/t20260516_26578647.htm
+              - listitem [ref=e251]:
+                - link "上海外国语大学附属外国语学校上外附中国际部AP..." [ref=e252] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/zbgg/202605/t20260516_26578648.htm
+              - listitem [ref=e253]:
+                - link "某单位某项目工程建设监理服务项目中标公告" [ref=e254] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/zbgg/202605/t20260516_26578646.htm
+              - listitem [ref=e255]:
+                - link "中华人民共和国天津出入境边防检查总站天津边检..." [ref=e256] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/cjgg/202605/t20260516_26578637.htm
+              - listitem [ref=e257]:
+                - link "上海市消防救援总队水上支队2026年炊事岗位社会..." [ref=e258] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/gkzb/202605/t20260516_26578103.htm
+              - listitem [ref=e259]:
+                - link "太原消防救援机动支队长治大队2026年主副食定点..." [ref=e260] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/gkzb/202605/t20260516_26578102.htm
+              - listitem [ref=e261]:
+                - link "太原消防救援机动支队临汾大队2026年主副食定点..." [ref=e262] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/gkzb/202605/t20260516_26578101.htm
+              - listitem [ref=e263]:
+                - link "太原消防救援机动支队大同大队2026年主副食定点..." [ref=e264] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/gkzb/202605/t20260516_26578100.htm
+              - listitem [ref=e265]:
+                - link "北京邮电大学沙河校区研究生公寓楼家具采购项目..." [ref=e266] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/zbgg/202605/t20260515_26578050.htm
+              - listitem [ref=e267]:
+                - link "西南民族大学太平园校区基础设施维修改造项目更..." [ref=e268] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/zygg/gzgg/202605/t20260515_26578036.htm
+          - generic [ref=e271]:
+            - generic [ref=e274]:
+              - heading "地方单位采购公告" [level=2] [ref=e275]:
+                - link "地方单位采购公告" [ref=e276] [cursor=pointer]:
+                  - /url: /cggg/dfgg/
+              - list [ref=e277]:
+                - listitem [ref=e278]:
+                  - link "招标" [ref=e279] [cursor=pointer]:
+                    - /url: /cggg/dfgg/gkzb/
+                - listitem [ref=e280]:
+                  - link "中标" [ref=e281] [cursor=pointer]:
+                    - /url: /cggg/dfgg/zbgg/
+                - listitem [ref=e282]:
+                  - link "更正" [ref=e283] [cursor=pointer]:
+                    - /url: /cggg/dfgg/gzgg/
+                - listitem [ref=e284]:
+                  - link "询价" [ref=e285] [cursor=pointer]:
+                    - /url: /cggg/dfgg/xjgg/
+                - listitem [ref=e286]:
+                  - link "邀请" [ref=e287] [cursor=pointer]:
+                    - /url: /cggg/dfgg/yqzbgg/
+                - listitem [ref=e288]:
+                  - link "单一" [ref=e289] [cursor=pointer]:
+                    - /url: /cggg/dfgg/dylygg/
+                - listitem [ref=e290]:
+                  - link "预审" [ref=e291] [cursor=pointer]:
+                    - /url: /cggg/dfgg/zgysgg/
+                - listitem [ref=e292]:
+                  - link "成交" [ref=e293] [cursor=pointer]:
+                    - /url: /cggg/dfgg/cjgg/
+                - listitem [ref=e294]:
+                  - link "竞争性谈判" [ref=e295] [cursor=pointer]:
+                    - /url: /cggg/dfgg/jzxtpgg/
+                - listitem [ref=e296]:
+                  - link "竞争性磋商" [ref=e297] [cursor=pointer]:
+                    - /url: /cggg/dfgg/jzxcs/
+                - listitem [ref=e298]:
+                  - link "终止" [ref=e299] [cursor=pointer]:
+                    - /url: /cggg/dfgg/fblbgg/
+            - list [ref=e300]:
+              - listitem [ref=e301]:
+                - link "浙江省房地产管理咨询有限公司关于浦阳镇社区卫..." [ref=e302] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202605/t20260516_26578670.htm
+              - listitem [ref=e303]:
+                - link "浙江天隆工程管理有限公司关于嵊泗县海洋经济发..." [ref=e304] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/gzgg/202605/t20260516_26578669.htm
+              - listitem [ref=e305]:
+                - link "2026年6月-2027年5月聘用制审判执行辅助服务终止..." [ref=e306] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/fblbgg/202605/t20260516_26578668.htm
+              - listitem [ref=e307]:
+                - link "嘉兴市建新工程造价咨询事务所有限公司关于嘉兴..." [ref=e308] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/gkzb/202605/t20260516_26578667.htm
+              - listitem [ref=e309]:
+                - link "中纬工程管理咨询有限公司关于苍南县第三人民医..." [ref=e310] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/gkzb/202605/t20260516_26578666.htm
+              - listitem [ref=e311]:
+                - link "浙江师范大学关于2026年EBSCO教育学、心理学数据..." [ref=e312] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202605/t20260516_26578664.htm
+              - listitem [ref=e313]:
+                - link "黑龙江省林业和草原局2025年森林草原防火能力建..." [ref=e314] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/qtgg/202605/t20260516_26578663.htm
+              - listitem [ref=e315]:
+                - link "嘉兴市银建工程咨询评估有限公司关于平湖市妇幼..." [ref=e316] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202605/t20260516_26578665.htm
+              - listitem [ref=e317]:
+                - link "浙江省建设工程设备招标有限公司关于杭十四中凤..." [ref=e318] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202605/t20260516_26578662.htm
+              - listitem [ref=e319]:
+                - link "2026上海博物馆（东馆）保安消安服务项目的公开..." [ref=e320] [cursor=pointer]:
+                  - /url: https://www.ccgp.gov.cn/cggg/dfgg/gkzb/202605/t20260516_26578660.htm
+        - list [ref=e323]:
+          - listitem [ref=e324]:
+            - link "第八届数字中国建设峰会":
+              - /url: /specialtopic/8thszzg/
+        - generic [ref=e325]:
+          - generic [ref=e328]:
+            - generic [ref=e331]:
+              - heading "政采法规" [level=2] [ref=e332]:
+                - link "政采法规" [ref=e333] [cursor=pointer]:
+                  - /url: /zcfg/
+              - heading "政策解读" [level=2] [ref=e334]:
+                - link "政策解读" [ref=e335] [cursor=pointer]:
+                  - /url: /zcfg/zcjd/
+            - list [ref=e336]:
+              - listitem [ref=e337]:
+                - link "关于公布第一批“政府采购支持公路绿色低碳..." [ref=e338] [cursor=pointer]:
+                  - /url: ./zcfg/mof/202603/t20260319_26286838.htm
+              - listitem [ref=e339]:
+                - link "关于推动解决政府采购异常低价问题的通知" [ref=e340] [cursor=pointer]:
+                  - /url: ./zcfg/mof/202601/t20260122_26102526.htm
+              - listitem [ref=e341]:
+                - link "财政部 交通运输部关于组织开展“政府采购支..." [ref=e342] [cursor=pointer]:
+                  - /url: ./zcfg/mof/202601/t20260105_26035898.htm
+              - listitem [ref=e343]:
+                - link "关于贯彻落实《国务院办公厅关于在政府采购..." [ref=e344] [cursor=pointer]:
+                  - /url: ./zcfg/mof/202512/t20251219_25958481.htm
+              - listitem [ref=e345]:
+                - link "关于印发《政府采购房屋租赁合同（示范文本..." [ref=e346] [cursor=pointer]:
+                  - /url: ./zcfg/mof/202512/t20251204_25849884.htm
+          - generic [ref=e349]:
+            - heading "资讯动态" [level=2] [ref=e353]:
+              - link "资讯动态" [ref=e354] [cursor=pointer]:
+                - /url: /zxdt/
+            - list [ref=e355]:
+              - listitem [ref=e356]:
+                - link "杭州富阳：筑牢防线，依规采购厚植民生福祉" [ref=e357] [cursor=pointer]:
+                  - /url: ./zxdt/202605/t20260515_26571275.htm
+              - listitem [ref=e358]:
+                - link "浏阳：精准赋能强履职 规范采购守底线" [ref=e359] [cursor=pointer]:
+                  - /url: ./zxdt/202604/t20260424_26452557.htm
+              - listitem [ref=e360]:
+                - link "杭州富阳：拧紧监管阀门 激活政采“新动能”" [ref=e361] [cursor=pointer]:
+                  - /url: ./zxdt/202604/t20260414_26399433.htm
+              - listitem [ref=e362]:
+                - link "浏阳首创政府采购投诉通报制度" [ref=e363] [cursor=pointer]:
+                  - /url: ./zxdt/202604/t20260414_26399401.htm
+              - listitem [ref=e364]:
+                - link "兴化以政策红利赋能民营经济高质量发展" [ref=e365] [cursor=pointer]:
+                  - /url: ./zxdt/202604/t20260414_26399385.htm
+          - generic [ref=e368]:
+            - generic [ref=e371]:
+              - heading "领导讲话" [level=2] [ref=e372]:
+                - link "领导讲话" [ref=e373] [cursor=pointer]:
+                  - /url: /ldjh/
+              - heading "理论实务" [level=2] [ref=e374]:
+                - link "理论实务" [ref=e375] [cursor=pointer]:
+                  - /url: /llsw/
+            - list [ref=e376]:
+              - listitem [ref=e377]:
+                - link "许宏才：共话公共采购合作 共创公共采购未来..." [ref=e378] [cursor=pointer]:
+                  - /url: ./ldjh/202211/t20221108_18964983.htm
+              - listitem [ref=e379]:
+                - link "许宏才：共享公共采购市场的未来——在2020..." [ref=e380] [cursor=pointer]:
+                  - /url: ./ldjh/202011/t20201113_15418082.htm
+              - listitem [ref=e381]:
+                - link "杜强：群策群力统筹协作 积极运用政府采购政..." [ref=e382] [cursor=pointer]:
+                  - /url: ./ldjh/202001/t20200117_13774366.htm
+              - listitem [ref=e383]:
+                - link "娄洪：落实习近平主席讲话 加快加入《政府采..." [ref=e384] [cursor=pointer]:
+                  - /url: ./ldjh/201805/t20180525_9984750.htm
+              - listitem [ref=e385]:
+                - link "娄洪：在地方政府采购业务工作培训班上的讲话" [ref=e386] [cursor=pointer]:
+                  - /url: ./ldjh/201711/t20171108_9124473.htm
+          - generic [ref=e389]:
+            - generic [ref=e392]:
+              - heading "指导性案例" [level=2] [ref=e393]:
+                - link "指导性案例" [ref=e394] [cursor=pointer]:
+                  - /url: /aljd/
+              - heading "国际采购" [level=2] [ref=e395]:
+                - link "国际采购" [ref=e396] [cursor=pointer]:
+                  - /url: /gjdt/
+            - list [ref=e397]:
+              - listitem [ref=e398]:
+                - link "典型案例10：不同供应商委托同一公司员工办..." [ref=e399] [cursor=pointer]:
+                  - /url: ./aljd/202512/t20251202_25830503.htm
+              - listitem [ref=e400]:
+                - link "典型案例9：不同供应商投标文件相互混装" [ref=e401] [cursor=pointer]:
+                  - /url: ./aljd/202512/t20251202_25830479.htm
+              - listitem [ref=e402]:
+                - link "典型案例8：某供应商提供虚假《中小企业声明..." [ref=e403] [cursor=pointer]:
+                  - /url: ./aljd/202512/t20251202_25830445.htm
+              - listitem [ref=e404]:
+                - link "典型案例7：某供应商提供多份虚假证书" [ref=e405] [cursor=pointer]:
+                  - /url: ./aljd/202512/t20251202_25830417.htm
+              - listitem [ref=e406]:
+                - link "典型案例6：某代理机构向中标供应商转嫁专家..." [ref=e407] [cursor=pointer]:
+                  - /url: ./aljd/202512/t20251202_25830395.htm
+        - list [ref=e410]:
+          - listitem [ref=e411]:
+            - link "第三届中国国际公共采购论坛" [ref=e412] [cursor=pointer]:
+              - /url: /specialtopic/gjggcglt3/
+        - generic [ref=e413]:
+          - generic [ref=e416]:
+            - heading "监督处罚" [level=2] [ref=e420]:
+              - link "监督处罚" [ref=e421] [cursor=pointer]:
+                - /url: /jdjc/jdcf/
+            - list [ref=e422]:
+              - listitem [ref=e423]:
+                - link "深圳市政府采购行政裁决结果公告（深财书〔2..." [ref=e424] [cursor=pointer]:
+                  - /url: ./jdjc/jdcf/202601/t20260112_26063477.htm
+              - listitem [ref=e425]:
+                - link "大连市财政局行政处罚结果公告（大财采罚﹝2..." [ref=e426] [cursor=pointer]:
+                  - /url: ./jdjc/jdcf/202601/t20260106_26039740.htm
+              - listitem [ref=e427]:
+                - link "上海市财政局行政处罚信息公告" [ref=e428] [cursor=pointer]:
+                  - /url: ./jdjc/jdcf/202601/t20260104_26029937.htm
+              - listitem [ref=e429]:
+                - link "海南投诉处理决定结果公告（琼财采处决字〔2..." [ref=e430] [cursor=pointer]:
+                  - /url: ./jdjc/jdcf/202512/t20251209_25887831.htm
+              - listitem [ref=e431]:
+                - link "天津市政府采购行政处罚决定公告（津财决〔2..." [ref=e432] [cursor=pointer]:
+                  - /url: ./jdjc/jdcf/202512/t20251209_25886012.htm
+          - generic [ref=e435]:
+            - heading "建议提案" [level=2] [ref=e439]:
+              - link "建议提案" [ref=e440] [cursor=pointer]:
+                - /url: /jdjc/taya/
+            - list [ref=e441]:
+              - listitem [ref=e442]:
+                - link "财政部对十四届全国人大三次会议第8028号建..." [ref=e443] [cursor=pointer]:
+                  - /url: ./jdjc/taya/202507/t20250714_24960628.htm
+              - listitem [ref=e444]:
+                - link "财政部关于政协第十四届全国委员会第一次会..." [ref=e445] [cursor=pointer]:
+                  - /url: ./jdjc/taya/202310/t20231009_20834230.htm
+              - listitem [ref=e446]:
+                - link "财政部对“十四届全国人大一次会议第0649号..." [ref=e447] [cursor=pointer]:
+                  - /url: ./jdjc/taya/202308/t20230828_20585111.htm
+              - listitem [ref=e448]:
+                - link "财政部对“十三届全国人大五次会议第1464号..." [ref=e449] [cursor=pointer]:
+                  - /url: ./jdjc/taya/202208/t20220812_18445885.htm
+              - listitem [ref=e450]:
+                - link "财政部对十三届全国人大四次会议第3732号建..." [ref=e451] [cursor=pointer]:
+                  - /url: ./jdjc/taya/202308/t20230830_20605127.htm
+          - generic [ref=e454]:
+            - heading "财政部政府采购信息公告" [level=2] [ref=e458]:
+              - link "财政部政府采购信息公告" [ref=e459] [cursor=pointer]:
+                - /url: /gg/index.htm
+            - list [ref=e460]:
+              - listitem [ref=e461]:
+                - link "第三千三百三十八号" [ref=e462] [cursor=pointer]:
+                  - /url: ./gg/202605/t20260507_26519790.htm
+              - listitem [ref=e463]:
+                - link "第三千三百三十七号" [ref=e464] [cursor=pointer]:
+                  - /url: ./gg/202605/t20260507_26519756.htm
+              - listitem [ref=e465]:
+                - link "第三千三百三十六号" [ref=e466] [cursor=pointer]:
+                  - /url: ./gg/202605/t20260507_26519655.htm
+              - listitem [ref=e467]:
+                - link "第三千三百三十五号" [ref=e468] [cursor=pointer]:
+                  - /url: ./gg/202605/t20260507_26519605.htm
+              - listitem [ref=e469]:
+                - link "第三千三百三十四号" [ref=e470] [cursor=pointer]:
+                  - /url: ./gg/202605/t20260507_26519516.htm
+          - generic [ref=e473]:
+            - heading "分析研究" [level=2] [ref=e477]:
+              - link "分析研究" [ref=e478] [cursor=pointer]:
+                - /url: /jdjc/fxyj/
+            - list [ref=e479]:
+              - listitem [ref=e480]:
+                - link "财政部2025年法治政府建设年度报告" [ref=e481] [cursor=pointer]:
+                  - /url: ./jdjc/fxyj/202603/t20260331_26336976.htm
+              - listitem [ref=e482]:
+                - link "2025年中国财政政策执行情况报告" [ref=e483] [cursor=pointer]:
+                  - /url: ./jdjc/fxyj/202603/t20260317_26278092.htm
+              - listitem [ref=e484]:
+                - link "2025年财政收支情况" [ref=e485] [cursor=pointer]:
+                  - /url: ./jdjc/fxyj/202602/t20260202_26139795.htm
+              - listitem [ref=e486]:
+                - link "2025年上半年中国财政政策执行情况报告" [ref=e487] [cursor=pointer]:
+                  - /url: ./jdjc/fxyj/202511/t20251110_25661608.htm
+              - listitem [ref=e488]:
+                - link "2025年1—5月财政收支情况" [ref=e489] [cursor=pointer]:
+                  - /url: ./jdjc/fxyj/202506/t20250623_24824191.htm
+      - generic [ref=e490]:
+        - list [ref=e492]:
+          - listitem [ref=e493]:
+            - paragraph [ref=e494]:
+              - link "财政部政府采购 管理交易系统" [ref=e495] [cursor=pointer]:
+                - /url: http://pub.ccgp.gov.cn/loginx/
+                - text: 财政部政府采购
+                - text: 管理交易系统
+          - listitem [ref=e496]:
+            - paragraph [ref=e497]:
+              - link "财政部评审专家 监管系统" [ref=e498] [cursor=pointer]:
+                - /url: http://pub.ccgp.gov.cn/loginx/
+                - text: 财政部评审专家
+                - text: 监管系统
+            - paragraph [ref=e499]:
+              - link "专家 注册" [ref=e500] [cursor=pointer]:
+                - /url: //www.ccgp.gov.cn/zfcggljyxt/xtxx/202603/t20260313_26271281.htm
+                - text: 专家
+                - text: 注册
+          - listitem [ref=e501]:
+            - paragraph [ref=e502]:
+              - link "地方政府采购 信息统计管理系统" [ref=e503] [cursor=pointer]:
+                - /url: /xxtj/
+                - text: 地方政府采购
+                - text: 信息统计管理系统
+          - listitem [ref=e504]:
+            - paragraph [ref=e505]:
+              - link "政府采购 代理机构" [ref=e506] [cursor=pointer]:
+                - /url: /agency/main.htm
+                - text: 政府采购
+                - text: 代理机构
+            - paragraph [ref=e507]:
+              - link "在线 登记" [ref=e508] [cursor=pointer]:
+                - /url: http://pub.ccgp.gov.cn/loginx/RegPass/register.htm?t=2
+                - text: 在线
+                - text: 登记
+          - listitem [ref=e509]:
+            - paragraph [ref=e510]:
+              - link "政府采购意向公开系统" [ref=e511] [cursor=pointer]:
+                - /url: /cgyx/
+          - listitem [ref=e512]:
+            - paragraph [ref=e513]:
+              - link "采购公告发布系统" [ref=e514] [cursor=pointer]:
+                - /url: /gzdt/201603/t20160301_8123933.htm
+          - listitem [ref=e515]:
+            - paragraph [ref=e516]:
+              - link "政府采购合同公告系统" [ref=e517] [cursor=pointer]:
+                - /url: /htgg/
+          - listitem [ref=e518]:
+            - paragraph [ref=e519]:
+              - link "中直机关采购中心 协议供货电子商城" [ref=e520] [cursor=pointer]:
+                - /url: http://xygh.ccgp.gov.cn/gs4/gs4goodsnewnav/main.regx
+                - text: 中直机关采购中心
+                - text: 协议供货电子商城
+          - listitem [ref=e521]:
+            - paragraph [ref=e522]:
+              - link "政府采购严重违法失信 行为记录管理系统" [ref=e523] [cursor=pointer]:
+                - /url: /cr
+                - text: 政府采购严重违法失信
+                - text: 行为记录管理系统
+          - listitem [ref=e524]:
+            - paragraph [ref=e525]:
+              - link "政府采购信用评价系统" [ref=e526] [cursor=pointer]:
+                - /url: http://pub.ccgp.gov.cn/loginx/
+        - heading "数据标准及规范" [level=4] [ref=e528]:
+          - link "数据标准及规范" [ref=e529] [cursor=pointer]:
+            - /url: /sjbzjgf/
+            - paragraph [ref=e530]: 数据标准及规范
+        - generic [ref=e531]:
+          - heading "下载专区" [level=2] [ref=e532]
+          - list [ref=e533]:
+            - listitem [ref=e534]:
+              - paragraph [ref=e535]:
+                - link "政府采购供应商投诉书范本" [ref=e536] [cursor=pointer]:
+                  - /url: //download.ccgp.gov.cn/2018/tousushufanben.zip
+            - listitem [ref=e537]:
+              - paragraph [ref=e538]:
+                - link "政府采购供应商质疑函范本" [ref=e539] [cursor=pointer]:
+                  - /url: //download.ccgp.gov.cn/2018/zhiyihanfanben.zip
+        - generic [ref=e540]:
+          - heading "专家视点" [level=2] [ref=e541]:
+            - link "专家视点" [ref=e542] [cursor=pointer]:
+              - /url: /zjgd/
+          - list [ref=e543]:
+            - listitem [ref=e544]:
+              - link "微信图片_20260204153920_25_1628_副本.jpg":
+                - /url: ./zjgd/202602/t20260204_26148555.htm
+                - img "微信图片_20260204153920_25_1628_副本.jpg" [ref=e545] [cursor=pointer]
+              - paragraph [ref=e546]:
+                - link "樊乐乐：基于“剃头匠现象”的部门集中采购需求合..." [ref=e547] [cursor=pointer]:
+                  - /url: ./zjgd/202602/t20260204_26148555.htm
+            - listitem [ref=e548]:
+              - link "微信图片_20260119090023_820_275.jpg":
+                - /url: ./zjgd/202601/t20260119_26088368.htm
+                - img "微信图片_20260119090023_820_275.jpg" [ref=e549] [cursor=pointer]
+              - paragraph [ref=e550]:
+                - link "王丛虎：AI时代，公共资源交易如何“慧治向新”" [ref=e551] [cursor=pointer]:
+                  - /url: ./zjgd/202601/t20260119_26088368.htm
+          - list [ref=e552]:
+            - listitem [ref=e553]:
+              - link "张旭东：法治化监管护航政府采购高..." [ref=e554] [cursor=pointer]:
+                - /url: ./zjgd/202512/t20251218_25951152.htm
+            - listitem [ref=e555]:
+              - link "赵勇：全球贸易公共产品视角下中国..." [ref=e556] [cursor=pointer]:
+                - /url: ./zjgd/202510/t20251014_25496725.htm
+            - listitem [ref=e557]:
+              - link "姜爱华：本国产品标准助力市场化、..." [ref=e558] [cursor=pointer]:
+                - /url: ./zjgd/202510/t20251014_25496723.htm
+            - listitem [ref=e559]:
+              - link "黄冬如：评审专家该如何正确履职" [ref=e560] [cursor=pointer]:
+                - /url: ./zjgd/202509/t20250916_25353506.htm
+        - generic [ref=e561]:
+          - heading "图片集锦" [level=2] [ref=e562]:
+            - link "图片集锦" [ref=e563] [cursor=pointer]:
+              - /url: /tupian/
+          - list [ref=e564]:
+            - listitem [ref=e565]:
+              - link "W020250527339026992226_副本.jpg" [ref=e566] [cursor=pointer]:
+                - /url: ./tupian/202505/t20250528_24677314.htm
+                - img "W020250527339026992226_副本.jpg" [ref=e567]
+        - generic [ref=e568]:
+          - heading "地方分网" [level=2] [ref=e569]
+          - list [ref=e570]:
+            - listitem [ref=e571]:
+              - link "北京" [ref=e572] [cursor=pointer]:
+                - /url: http://www.ccgp-beijing.gov.cn/
+            - listitem [ref=e573]:
+              - link "上海" [ref=e574] [cursor=pointer]:
+                - /url: http://www.ccgp-shanghai.gov.cn/
+            - listitem [ref=e575]:
+              - link "天津" [ref=e576] [cursor=pointer]:
+                - /url: http://www.ccgp-tianjin.gov.cn/
+            - listitem [ref=e577]:
+              - link "重庆" [ref=e578] [cursor=pointer]:
+                - /url: http://www.ccgp-chongqing.gov.cn/
+            - listitem [ref=e579]:
+              - link "河北" [ref=e580] [cursor=pointer]:
+                - /url: http://www.ccgp-hebei.gov.cn/
+            - listitem [ref=e581]:
+              - link "河南" [ref=e582] [cursor=pointer]:
+                - /url: http://www.ccgp-henan.gov.cn
+            - listitem [ref=e583]:
+              - link "湖北" [ref=e584] [cursor=pointer]:
+                - /url: http://www.ccgp-hubei.gov.cn/
+            - listitem [ref=e585]:
+              - link "湖南" [ref=e586] [cursor=pointer]:
+                - /url: http://www.ccgp-hunan.gov.cn
+            - listitem [ref=e587]:
+              - link "山西" [ref=e588] [cursor=pointer]:
+                - /url: http://www.ccgp-shanxi.gov.cn/
+            - listitem [ref=e589]:
+              - link "山东" [ref=e590] [cursor=pointer]:
+                - /url: http://www.ccgp-shandong.gov.cn/
+            - listitem [ref=e591]:
+              - link "黑龙江" [ref=e592] [cursor=pointer]:
+                - /url: http://www.ccgp-heilongj.gov.cn/
+            - listitem [ref=e593]:
+              - link "吉林" [ref=e594] [cursor=pointer]:
+                - /url: http://www.ccgp-jilin.gov.cn/
+            - listitem [ref=e595]:
+              - link "辽宁" [ref=e596] [cursor=pointer]:
+                - /url: http://www.ccgp-liaoning.gov.cn/
+            - listitem [ref=e597]:
+              - link "广东" [ref=e598] [cursor=pointer]:
+                - /url: https://www.ccgp-guangdong.gov.cn/
+            - listitem [ref=e599]:
+              - link "海南" [ref=e600] [cursor=pointer]:
+                - /url: https://ccgp-hainan.gov.cn/
+            - listitem [ref=e601]:
+              - link "内蒙古" [ref=e602] [cursor=pointer]:
+                - /url: http://www.ccgp-neimenggu.gov.cn
+            - listitem [ref=e603]:
+              - link "陕西" [ref=e604] [cursor=pointer]:
+                - /url: http://www.ccgp-shaanxi.gov.cn/
+            - listitem [ref=e605]:
+              - link "甘肃" [ref=e606] [cursor=pointer]:
+                - /url: http://www.ccgp-gansu.gov.cn/
+            - listitem [ref=e607]:
+              - link "青海" [ref=e608] [cursor=pointer]:
+                - /url: http://www.ccgp-qinghai.gov.cn/
+            - listitem [ref=e609]:
+              - link "宁夏" [ref=e610] [cursor=pointer]:
+                - /url: http://www.ccgp-ningxia.gov.cn
+            - listitem [ref=e611]:
+              - link "江西" [ref=e612] [cursor=pointer]:
+                - /url: https://ccgp-jiangxi.gov.cn
+            - listitem [ref=e613]:
+              - link "新疆" [ref=e614] [cursor=pointer]:
+                - /url: http://www.ccgp-xinjiang.gov.cn/
+            - listitem [ref=e615]:
+              - link "西藏" [ref=e616] [cursor=pointer]:
+                - /url: http://www.ccgp-xizang.gov.cn/
+            - listitem [ref=e617]:
+              - link "四川" [ref=e618] [cursor=pointer]:
+                - /url: http://www.ccgp-sichuan.gov.cn/
+            - listitem [ref=e619]:
+              - link "江苏" [ref=e620] [cursor=pointer]:
+                - /url: http://www.ccgp-jiangsu.gov.cn/
+            - listitem [ref=e621]:
+              - link "浙江" [ref=e622] [cursor=pointer]:
+                - /url: http://www.ccgp-zhejiang.gov.cn/
+            - listitem [ref=e623]:
+              - link "广西" [ref=e624] [cursor=pointer]:
+                - /url: http://www.ccgp-guangxi.gov.cn/
+            - listitem [ref=e625]:
+              - link "云南" [ref=e626] [cursor=pointer]:
+                - /url: http://www.ccgp-yunnan.gov.cn/
+            - listitem [ref=e627]:
+              - link "福建" [ref=e628] [cursor=pointer]:
+                - /url: http://www.ccgp-fujian.gov.cn/
+            - listitem [ref=e629]:
+              - link "贵州" [ref=e630] [cursor=pointer]:
+                - /url: http://www.ccgp-guizhou.gov.cn/
+            - listitem [ref=e631]:
+              - link "安徽" [ref=e632] [cursor=pointer]:
+                - /url: http://www.ccgp-anhui.gov.cn
+            - listitem [ref=e633]:
+              - link "深圳" [ref=e634] [cursor=pointer]:
+                - /url: http://ccgp-shenzhen.gov.cn
+            - listitem [ref=e635]:
+              - link "大连" [ref=e636] [cursor=pointer]:
+                - /url: http://www.ccgp-dalian.gov.cn
+            - listitem [ref=e637]:
+              - link "厦门" [ref=e638] [cursor=pointer]:
+                - /url: http://ccgp-xiamen.gov.cn/
+            - listitem [ref=e639]:
+              - link "青岛" [ref=e640] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e641]:
+              - link "宁波" [ref=e642] [cursor=pointer]:
+                - /url: https://www.ccgp-ningbo.gov.cn
+            - listitem [ref=e643]:
+              - link "新疆生产建设兵团" [ref=e644] [cursor=pointer]:
+                - /url: http://ccgp-bingtuan.gov.cn
+        - generic [ref=e645]:
+          - heading "电子政务" [level=2] [ref=e646]
+          - img [ref=e648]
+  - generic [ref=e649]:
+    - generic [ref=e653]:
+      - generic [ref=e656]:
+        - heading "友情链接" [level=2] [ref=e657]:
+          - link "友情链接" [ref=e658] [cursor=pointer]:
+            - /url: javascript:void(0)
+        - heading "国务院各部门" [level=2] [ref=e659]:
+          - link "国务院各部门" [ref=e660] [cursor=pointer]:
+            - /url: javascript:void(0)
+      - list [ref=e661]:
+        - listitem [ref=e662]:
+          - link "中直机关采购中心" [ref=e663] [cursor=pointer]:
+            - /url: //www.zzcg.gov.cn/
+        - listitem [ref=e664]:
+          - link "全国人大机关采购中心" [ref=e665] [cursor=pointer]:
+            - /url: //www.ccgp.gov.cn/qgrd/
+        - listitem [ref=e666]:
+          - link "中央国家机关采购中心" [ref=e667] [cursor=pointer]:
+            - /url: //www.zycg.gov.cn/
+        - listitem [ref=e668]:
+          - link "海关总署采购中心" [ref=e669] [cursor=pointer]:
+            - /url: http://hgcg.customs.gov.cn/
+        - listitem [ref=e670]:
+          - link "军队采购" [ref=e671] [cursor=pointer]:
+            - /url: https://www.plap.mil.cn/
+        - listitem [ref=e672]:
+          - link "中国人民银行集中采购中心" [ref=e673] [cursor=pointer]:
+            - /url: //jzcg.pbc.gov.cn/
+        - listitem [ref=e674]:
+          - link "国家税务总局集中采购中心" [ref=e675] [cursor=pointer]:
+            - /url: https://swcg.chinatax.gov.cn/
+    - generic [ref=e677]:
+      - generic [ref=e678]:
+        - link [ref=e680] [cursor=pointer]:
+          - /url: https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm14000002&url=http%3A%2F%2Fwww.ccgp.gov.cn%2F
+          - img [ref=e681]
+        - link [ref=e683] [cursor=pointer]:
+          - /url: https://bszs.conac.cn/sitename?method=show&id=266EC4FC31716D1EE053012819AC7404
+          - img [ref=e684]
+      - paragraph [ref=e685]:
+        - text: 主办单位：中华人民共和国财政部国库司
+        - text: 网站标识码：bm14000002 |
+        - link "京ICP备19054529号-1" [ref=e686] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn
+        - text: "| 京公网安备11010602060068号"
+        - text: © 1999-2026 中华人民共和国财政部 版权所有 |
+        - link "联系我们" [ref=e687] [cursor=pointer]:
+          - /url: contact.shtml
+        - text: "|"
+        - link "意见反馈" [ref=e688] [cursor=pointer]:
+          - /url: //www.ccgp.gov.cn/zxly/
+        - text: "| 运营支持：财政部信息网络中心"

@@ -8945,14 +8945,14 @@ class HermesCLI:
         if current:
             os.environ.pop("HERMES_YOLO_MODE", None)
             _cprint(
-                f"  ⚠ YOLO mode {_Colors.BOLD}{_Colors.RED}OFF{_Colors.RESET}"
-                " — dangerous commands will require approval."
+                f"  ⚠ YOLO 模式 {_Colors.BOLD}{_Colors.RED}已关闭{_Colors.RESET}"
+                " — 危险命令将需要审批。"
             )
         else:
             os.environ["HERMES_YOLO_MODE"] = "1"
             _cprint(
-                f"  ⚡ YOLO mode {_Colors.BOLD}{_Colors.GREEN}ON{_Colors.RESET}"
-                " — all commands auto-approved. Use with caution."
+                f"  ⚡ YOLO 模式 {_Colors.BOLD}{_Colors.GREEN}已开启{_Colors.RESET}"
+                " — 所有命令自动批准，请谨慎使用。"
             )
 
     def _handle_reasoning_command(self, cmd: str):
@@ -10569,14 +10569,14 @@ class HermesCLI:
         selected = state.get("selected", 0)
         show_full = state.get("show_full", False)
 
-        title = "⚠️  Dangerous Command"
+        title = "⚠️  危险命令"
         cmd_display = command if show_full or len(command) <= 70 else command[:70] + '...'
         choice_labels = {
-            "once": "Allow once",
-            "session": "Allow for this session",
-            "always": "Add to permanent allowlist",
-            "deny": "Deny",
-            "view": "Show full command",
+            "once": "允许一次",
+            "session": "本次会话允许",
+            "always": "永久允许（加入白名单）",
+            "deny": "拒绝",
+            "view": "查看完整命令",
         }
 
         preview_lines = _wrap_panel_text(description, 60)

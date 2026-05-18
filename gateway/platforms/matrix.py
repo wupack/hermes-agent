@@ -1220,12 +1220,12 @@ class MatrixAdapter(BasePlatformAdapter):
 
         cmd_preview = command[:2000] + "..." if len(command) > 2000 else command
         text = (
-            "⚠️ **Dangerous command requires approval**\n"
+            "⚠️ **需要审批的危险命令**\n"
             f"```\n{cmd_preview}\n```\n"
-            f"Reason: {description}\n\n"
-            "Reply `/approve` to execute, `/approve session` to approve this pattern for the session, "
-            "`/approve always` to approve permanently, or `/deny` to cancel.\n\n"
-            "You can also click the reaction to approve:\n"
+            f"原因：{description}\n\n"
+            "回复 `/approve` 执行，`/approve session` 本次会话允许此模式，"
+            "`/approve always` 永久允许，或 `/deny` 取消。\n\n"
+            "也可以点击表情回应来审批：\n"
             "✅ = /approve\n"
             "❎ = /deny"
         )

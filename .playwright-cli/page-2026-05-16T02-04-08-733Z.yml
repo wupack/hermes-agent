@@ -1,0 +1,159 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic:
+        - paragraph [ref=e4]: 财政部唯一指定政府采购信息网络发布媒体 国家级政府采购专业网站
+        - paragraph [ref=e5]: 服务热线：400-810-1996 | 服务投诉：010-63819289
+    - generic [ref=e9]:
+      - link:
+        - /url: "#"
+      - link:
+        - /url: "#"
+      - link:
+        - /url: "#"
+      - link:
+        - /url: "#"
+    - generic [ref=e11]:
+      - generic:
+        - list:
+          - listitem [ref=e12]:
+            - link "首页" [ref=e13] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/
+          - listitem [ref=e14]:
+            - link "政采法规" [ref=e15] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/zcfg/
+          - listitem [ref=e16]:
+            - link "购买服务" [ref=e17] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/gpsr/
+          - listitem [ref=e18]:
+            - link "监督检查" [ref=e19] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/jdjc/
+          - listitem [ref=e20]:
+            - link "信息公告" [ref=e21] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/xxgg/
+          - listitem [ref=e22]:
+            - link "国际专栏" [ref=e23] [cursor=pointer]:
+              - /url: //www.ccgp.gov.cn/wtogpa/
+  - generic:
+    - generic:
+      - list:
+        - listitem [ref=e24]:
+          - link "站内资讯" [ref=e25] [cursor=pointer]:
+            - /url: //search.ccgp.gov.cn/znzxsearch?searchtype=1&page_index=1&searchchannel=0&kw=积分球&timeType=0
+        - listitem [ref=e26]: 采购公告
+        - listitem [ref=e27]:
+          - link "政策法规" [ref=e28] [cursor=pointer]:
+            - /url: //search.ccgp.gov.cn/zcfgsearch
+  - generic:
+    - generic:
+      - img [ref=e31]
+      - generic [ref=e32]:
+        - generic:
+          - textbox [ref=e33]: 积分球
+          - button "搜标题" [ref=e34] [cursor=pointer]
+          - button "搜全文" [ref=e35] [cursor=pointer]
+  - generic [ref=e38]:
+    - generic [ref=e39]:
+      - paragraph [ref=e41]: 类型
+      - generic [ref=e42]:
+        - list:
+          - listitem [ref=e43]: 所有类型
+          - listitem [ref=e44]: 公开招标
+          - listitem [ref=e45]: 询价公告
+          - listitem [ref=e46]: 竞争性谈判
+          - listitem [ref=e47]: 单一来源
+          - listitem [ref=e48]: 资格预审
+          - listitem [ref=e49]: 邀请公告
+          - listitem [ref=e50]: 中标公告
+          - listitem [ref=e51]: 更正公告
+          - listitem [ref=e52]: 其他公告
+          - listitem [ref=e53]: 竞争性磋商
+          - listitem [ref=e54]: 成交公告
+          - listitem [ref=e55]: 终止公告
+          - listitem [ref=e56]:
+            - img "ppp项目" [ref=e57]
+    - generic [ref=e58]:
+      - paragraph [ref=e60]: 类别
+      - generic [ref=e61]:
+        - list:
+          - listitem [ref=e62]: 所有类别
+          - listitem [ref=e63]: 中央公告
+          - listitem [ref=e64]: 地方公告
+    - generic [ref=e65]:
+      - paragraph [ref=e67]: 品目
+      - generic [ref=e68]:
+        - list:
+          - listitem [ref=e69]: 所有品目
+          - listitem [ref=e70]: 货物类
+          - listitem [ref=e71]: 工程类
+          - listitem [ref=e72]: 服务类
+    - generic [ref=e73]:
+      - paragraph [ref=e75]: 时间
+      - generic [ref=e76]:
+        - list:
+          - listitem [ref=e77]: 今日
+          - listitem [ref=e78]: 近3日
+          - listitem [ref=e79]: 近1周
+          - listitem [ref=e80]: 近1月
+          - listitem [ref=e81]: 近3月
+          - listitem [ref=e82]: 近半年
+          - listitem [ref=e83]: 指定时间
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - paragraph [ref=e86]: 采购人
+        - textbox [ref=e87]
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: 项目编号
+        - textbox [ref=e90]
+      - generic [ref=e91]:
+        - paragraph [ref=e92]: 地区
+        - textbox [ref=e93]
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: 代理机构
+        - textbox [ref=e96]
+  - generic [ref=e99]:
+    - generic [ref=e100]:
+      - generic:
+        - paragraph [ref=e101]: 关键字： 积分球 全文检索 共找到 2 条内容 查询日期从 2026-05-09 到 2026-05-16
+        - paragraph
+    - generic [ref=e106]:
+      - list [ref=e107]:
+        - listitem [ref=e108]:
+          - link "云南农业大学重大教学科研仪器设备更新项目（动科院01包）2026-25号中标公告" [ref=e109] [cursor=pointer]:
+            - /url: http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202605/t20260515_26575570.htm
+          - paragraph [ref=e110]: 显微镜EVIDENTBX531台4788003云南农业大学重大教学科研仪器设备更新项目（动科院01包）2026-25号全自动分析积分球紫外/可见分光光度计耶拿SPECORD210PLUS1台5385004云南农业大学重大教学科研仪器设备更新项目（动科院01包）
+          - generic [ref=e111]:
+            - text: 2026.05.15 16:51:37 | 采购人：云南农业大学 | 代理机构：昆明华辰招标代理有限公司
+            - strong [ref=e112]: 中标公告
+            - text: "| 云南 |"
+            - strong
+        - listitem [ref=e113]:
+          - link "2026年大连民族大学改善基本办学条件项目-设备资料购置-纳米科学与工程学科平台建设（一）二次中标公告" [ref=e114] [cursor=pointer]:
+            - /url: http://www.ccgp.gov.cn/cggg/zygg/zbgg/202605/t20260511_26547718.htm
+          - paragraph [ref=e115]: 货物型号 货物数量 货物单价(元) 1 大连博弈商贸有限公司 半导体参数分析仪；光纤光谱仪带积分球；1310nm半导体激光器；1710nm半导体激光器；光电倍增管；热电式功率计；单光子计数器；同步时序发生器；27
+          - generic [ref=e116]:
+            - text: 2026.05.11 17:58:02 | 采购人：大连民族大学 | 代理机构：辽宁中电项目管理有限公司
+            - strong [ref=e117]: 中标公告
+            - text: "| 辽宁 |"
+            - strong [ref=e118]: 货物/设备/仪器仪表/其他仪器仪表,货物/设备/仪器仪表/仪器仪表零部件
+      - paragraph
+    - generic [ref=e121]:
+      - generic [ref=e122]:
+        - link [ref=e124] [cursor=pointer]:
+          - /url: https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm14000002&url=http%3A%2F%2Fwww.ccgp.gov.cn%2F
+          - img [ref=e125]
+        - link [ref=e127] [cursor=pointer]:
+          - /url: https://bszs.conac.cn/sitename?method=show&id=266EC4FC31716D1EE053012819AC7404
+          - img [ref=e128]
+      - paragraph [ref=e130]:
+        - text: 主办单位：中华人民共和国财政部国库司
+        - text: 网站标识码：bm14000002 |
+        - link "京ICP备19054529号-1" [ref=e131] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn
+        - text: "| 京公网安备11010602060068号"
+        - text: © 1999-2026 中华人民共和国财政部 版权所有 |
+        - link "联系我们" [ref=e132] [cursor=pointer]:
+          - /url: //www.ccgp.gov.cn/contact.shtml
+        - text: "|"
+        - link "意见反馈" [ref=e133] [cursor=pointer]:
+          - /url: //www.ccgp.gov.cn/zxly/
